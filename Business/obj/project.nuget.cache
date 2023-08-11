@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "73iyfUdHdFS+ARrk8BmAH3sz4QXNjuzAtVZg3Ju60wQsOzTFqTOM0lDoOqciy//OUyUxXpM5VeJ7rqX+PC8Shg==",
+  "dgSpecHash": "BQWqHl8g0wEEtjKLsYiewakFWbaf89A37F49cwHQmSUJynCCUW9z3O1bBDZVfn9sUdOcvA5s/k3f1EHFr/KzFQ==",
   "success": true,
   "projectFilePath": "/Users/cemkaya/RiderProjects/NorthwindBackend/Business/Business.csproj",
   "expectedPackageFiles": [
+    "/Users/cemkaya/.nuget/packages/autofac/7.0.1/autofac.7.0.1.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/microsoft.data.sqlite.core/7.0.10/microsoft.data.sqlite.core.7.0.10.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/microsoft.entityframeworkcore/7.0.10/microsoft.entityframeworkcore.7.0.10.nupkg.sha512",
@@ -30,6 +31,7 @@
     "/Users/cemkaya/.nuget/packages/sqlitepclraw.lib.e_sqlite3/2.1.4/sqlitepclraw.lib.e_sqlite3.2.1.4.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/sqlitepclraw.provider.e_sqlite3/2.1.4/sqlitepclraw.provider.e_sqlite3.2.1.4.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/system.codedom/4.4.0/system.codedom.4.4.0.nupkg.sha512",
+    "/Users/cemkaya/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/system.memory/4.5.3/system.memory.4.5.3.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/system.text.json/7.0.0/system.text.json.7.0.0.nupkg.sha512"

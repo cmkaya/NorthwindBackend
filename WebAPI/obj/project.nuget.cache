@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "MkxrzKmimfoCWkg3b1PODmwNe0vOzNl2d4hjzi5bp2lDnSjxQb16KNCm0IpHBVVHHD07iLmDcOXDDw1Fztb+hA==",
+  "dgSpecHash": "Kq386D3FuQ7z99FT38Hn6Obqy+eltS+GpYStwo8qMIIAXFLtkpo1p1rZGl2BbTwRC3sMm1R91jADYzQxfAOMFQ==",
   "success": true,
   "projectFilePath": "/Users/cemkaya/RiderProjects/NorthwindBackend/WebAPI/WebAPI.csproj",
   "expectedPackageFiles": [
+    "/Users/cemkaya/.nuget/packages/autofac/7.0.1/autofac.7.0.1.nupkg.sha512",
+    "/Users/cemkaya/.nuget/packages/autofac.extensions.dependencyinjection/8.0.0/autofac.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/humanizer/2.14.1/humanizer.2.14.1.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/humanizer.core.af/2.14.1/humanizer.core.af.2.14.1.nupkg.sha512",
@@ -156,7 +158,7 @@
     "/Users/cemkaya/.nuget/packages/system.console/4.3.0/system.console.4.3.0.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/system.data.datasetextensions/4.5.0/system.data.datasetextensions.4.5.0.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/system.diagnostics.debug/4.3.0/system.diagnostics.debug.4.3.0.nupkg.sha512",
-    "/Users/cemkaya/.nuget/packages/system.diagnostics.diagnosticsource/4.3.0/system.diagnostics.diagnosticsource.4.3.0.nupkg.sha512",
+    "/Users/cemkaya/.nuget/packages/system.diagnostics.diagnosticsource/4.7.1/system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/system.diagnostics.tools/4.3.0/system.diagnostics.tools.4.3.0.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/system.diagnostics.tracing/4.3.0/system.diagnostics.tracing.4.3.0.nupkg.sha512",
     "/Users/cemkaya/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512",

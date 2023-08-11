@@ -8,9 +8,8 @@ public interface IProductService
     /// <summary>
     /// Retrieves a list of products.
     /// </summary>
-    /// <returns> Encapsulated list consists of the list of products and
-    /// additional result information which may include success result
-    /// and error messages. </returns>
+    /// <returns> An encapsulated list of products
+    /// and result information. </returns>
     /// <seealso cref="IDataResult{T}"/>
     IDataResult<List<Product>> GetList();
     
@@ -57,7 +56,7 @@ public interface IProductService
     /// Deletes a product.
     /// </summary>
     /// <param name="product"> Contains the information of the product
-    /// to be updated. </param>
+    /// to be deleted. </param>
     /// <returns> A result indicating whether the addition was successful,
     /// along with any relevant error messages. </returns>
     /// <seealso cref="IResult"/>

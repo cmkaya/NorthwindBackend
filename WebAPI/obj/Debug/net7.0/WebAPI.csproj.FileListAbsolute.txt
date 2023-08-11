@@ -532,3 +532,5 @@
 /Users/cemkaya/RiderProjects/NorthwindBackend/WebAPI/obj/Debug/net7.0/WebAPI.pdb
 /Users/cemkaya/RiderProjects/NorthwindBackend/WebAPI/obj/Debug/net7.0/WebAPI.genruntimeconfig.cache
 /Users/cemkaya/RiderProjects/NorthwindBackend/WebAPI/obj/Debug/net7.0/ref/WebAPI.dll
+/Users/cemkaya/RiderProjects/NorthwindBackend/WebAPI/bin/Debug/net7.0/Autofac.dll
+/Users/cemkaya/RiderProjects/NorthwindBackend/WebAPI/bin/Debug/net7.0/Autofac.Extensions.DependencyInjection.dll

@@ -43,7 +43,7 @@ public abstract class EfEntityRepositoryBase<TEntity, TContext> : IEntityReposit
     {
         using var context = new TContext();
         EntityEntry<TEntity> deletedRecord = context.Entry(entity);
-        deletedRecord.State = EntityState.Detached;
+        deletedRecord.State = EntityState.Deleted;
         context.SaveChanges();
     }
 }
